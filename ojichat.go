@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/docopt/docopt-go"
-	"github.com/greymd/ojichat/generator"
+	"github.com/MU-TAN/ojichat/generator"
 )
 
 var appVersion = `Ojisan Nanchatte (ojichat) command version 0.0.1

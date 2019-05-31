@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/greymd/ojichat/pattern"
+	"github.com/MU-TAN/ojichat/pattern"
 	"github.com/ikawaha/kagome/tokenizer"
 	"github.com/miiton/kanaconv"
 )
