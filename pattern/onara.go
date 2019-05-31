@@ -117,8 +117,7 @@ var OnaraMessages = [][]string{
 		"天気悪いと気分もよくないよね{EMOJI_NEG}じゃあ今日は会社休んで{FIRST_PERSON}とデートしよう{EMOJI_POS}{NANCHATTE}",
 	},
 	HONDA: []string{
-		"俺の勝ち{EMOJI_HONDA} たかがじゃんけん{EMOJI_JANKEN}、そう思ってないですか{EMOJI_ASK} それやったら明日も、{FIRST_PERSON}が勝ちます
-よ。ほな、いただきます{EMOJI_POS}",
+		"俺の勝ち{EMOJI_HONDA} たかがじゃんけん{EMOJI_JANKEN}、そう思ってないですか{EMOJI_ASK} それやったら明日も、{FIRST_PERSON}が勝ちますよ。ほな、いただきます{EMOJI_POS}",
 		"俺の勝ち{EMOJI_HONDA} なんで負けたか{EMOJI_NEG}、明日まで考えといてください{EMOJI_POS} そしたら何かが見えてくるはずです{NANCHATTE} ほな、いただきます{EMOJI_POS}",
 		"俺の勝ち{EMOJI_HONDA} 負けは次につながるチャンスです{EMOJI_POS} ネバーギブアップ{EMOJI_ASK} ほな、いただきます{EMOJI_POS}",
 	},
